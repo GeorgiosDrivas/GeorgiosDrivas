@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an online code editor**
+ 🔭 I’m currently working on **a Visual Studio Code extension**
  
- 🌱 I’m currently learning **Angular, Spring Boot, PostgreSQL**
+ 🌱 I’m currently learning **NextJS, Spring Boot**
 
  </div>
  
