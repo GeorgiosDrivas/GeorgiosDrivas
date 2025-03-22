@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Pet Diary web app**
+ 🔭 I’m currently working on **a Items Reminder React Native app**
  
  🌱 I’m currently learning **NextJS, Spring Boot**
 
