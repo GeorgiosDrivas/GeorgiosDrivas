@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Items Reminder React Native app**
  
- 🌱 I’m currently learning **NextJS, Spring Boot**
+ 🌱 I’m currently learning **React Native**
 
  </div>
  
