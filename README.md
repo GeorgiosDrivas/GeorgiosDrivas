@@ -30,9 +30,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,nodejs" />
     <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,tailwind,git,wordpress" /><br>
 </div>
 
 <br/>
