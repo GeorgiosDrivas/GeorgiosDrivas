@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Items Reminder React Native app**
+ 🔭 I’m currently working on **a React + Headless Wordpress Blog**
  
  🌱 I’m currently learning **React Native**
 
