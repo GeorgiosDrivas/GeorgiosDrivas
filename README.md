@@ -7,14 +7,6 @@
 <h3 align="center">A passionate Frontend Developer from Athens, Greece</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a React + Headless Wordpress Blog**
- 
- 🌱 I’m currently learning **React Native**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:drivasgeorgios0@gmail.com">
