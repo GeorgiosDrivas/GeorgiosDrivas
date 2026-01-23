@@ -3,8 +3,6 @@
 Full-stack software engineer with a strong focus on **frontend development**.  
 I enjoy building performant, maintainable web applications and developer tools using modern technologies.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GeorgiosDrivas?cardType=level&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
-
 🌍 https://www.georgiosdrivas.eu  
 💼 Currently working at **Wizy Agency**
 
