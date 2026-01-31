@@ -25,7 +25,6 @@ I enjoy building performant, maintainable web applications and developer tools u
 - Tailwind CSS
 
 **Backend**
-- Spring Boot
 - PostgreSQL
 - Prisma
 
@@ -38,7 +37,6 @@ I enjoy building performant, maintainable web applications and developer tools u
 
 ## 🌱 Currently Learning
 - Docker
-- Python
 
 ---
 
