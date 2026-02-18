@@ -1,6 +1,6 @@
 # Hi, I’m Georgios 👋
 
-Full-stack software engineer with a strong focus on **frontend development**.  
+I am a full-stack software engineer.
 I enjoy building performant, maintainable web applications and developer tools using modern technologies.
 
 🌍 https://www.georgiosdrivas.eu  
