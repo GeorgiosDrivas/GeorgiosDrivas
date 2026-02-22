@@ -31,7 +31,6 @@ I enjoy building performant, maintainable web applications and developer tools u
 **Tooling**
 - Git & GitHub
 - Docker
-- VS Code
 
 ---
 
