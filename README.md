@@ -26,16 +26,16 @@ I enjoy building performant, maintainable web applications and developer tools u
 
 **Backend**
 - PostgreSQL
+- FastAPI
 - Prisma
 
 **Tooling**
 - Git & GitHub
-- Docker
 
 ---
 
 ## 🌱 Currently Learning
-- Docker
+- Python
 
 ---
 
