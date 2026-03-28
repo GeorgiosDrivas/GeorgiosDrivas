@@ -26,7 +26,6 @@ I enjoy building performant, maintainable web applications and developer tools u
 
 **Backend**
 - PostgreSQL
-- FastAPI
 - Prisma
 
 **Tooling**
@@ -35,7 +34,7 @@ I enjoy building performant, maintainable web applications and developer tools u
 ---
 
 ## 🌱 Currently Learning
-- Python
+- Vitest
 
 ---
 
