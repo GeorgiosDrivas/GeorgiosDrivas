@@ -3,7 +3,6 @@
 I am a full-stack software engineer.
 I enjoy building performant, maintainable web applications and developer tools using modern technologies.
 
-🌍 https://www.georgiosdrivas.eu  
 💼 Currently working at **Wizy Agency**
 
 ---
@@ -40,5 +39,4 @@ I enjoy building performant, maintainable web applications and developer tools u
 
 ## 🤝 Connect With Me
 
-- 🌐 Website: https://www.georgiosdrivas.eu  
 - 💼 LinkedIn: https://linkedin.com/in/drivasgeorgios  
